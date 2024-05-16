@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular, Typescript and Java
 - 💞️ I’m looking to collaborate on any programming company
 - 📫 How to reach me: My email: kev79asl@gmail.com
-- 💻 Here is a preliminar of a web page that I am working on: https://prepagecvangular.netlify.app/
+- 💻 Here is a preliminar of a web page that I am working on: https://prepagecvka.netlify.app/
 
 <!---
 Kenjivlar/Kenjivlar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
